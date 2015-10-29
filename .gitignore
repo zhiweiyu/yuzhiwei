@@ -1,0 +1,9 @@
+#windows:
+thumbs.db
+
+#Python
+*.so
+*.py[cod]
+
+#My configurations:
+db.ini
